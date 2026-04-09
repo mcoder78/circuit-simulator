@@ -1,0 +1,6 @@
+*.o
+*.out
+circuit-sim
+build/
+.DS_Store
+*.swp
